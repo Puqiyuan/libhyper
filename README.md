@@ -1,2 +1,2 @@
 # libhyper
-Commonly used high-performance algorithms
+Commonly used high-performance algorithms.
